@@ -1,6 +1,6 @@
 # Algorithms Part 1
 This github repository is my solutions to the programming assignments in course **Algorithms part 1** of _Princeton University_ on Coursera 
-> Supported programming language in my solution is Java
+> Supported programming language in my solution is **_Java_**
 ## Solutions Grades
 1. Percolation ![Passed](https://img.shields.io/badge/Passed-91%25-green)
 2. Deques and Randomized Queues ![Passed](https://img.shields.io/badge/Passed-87%25-green)
